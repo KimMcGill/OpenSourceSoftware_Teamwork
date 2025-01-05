@@ -40,9 +40,13 @@ Category_counts.py
 ##### 3.1殷智所作工作
 
 Chart1.py
+
 Commit_author_stats.py
+
 Line_connected_scatter_plot_top_50_categories.html
+
 Top_50_contributors_treemap.html
+
 Treemap_chart.html
 
 ##### 3.2王杰所作工作
