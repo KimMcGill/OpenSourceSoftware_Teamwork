@@ -75,6 +75,14 @@ chart1.py生成
 决策支持：
 根据类别的重要性（出现次数），帮助用户优化资源分配或分析类别相关的行为模式。
 
+MismatchLog.txt：
+Commit_author_stats.py生成
+Author 和 Message 的完整列表及其顺序。
+
+AuthorCommitDetails.txt：
+Commit_author_stats.py生成
+每个作者的提交次数及提交内容。
+
 ##### 3.2王杰所作工作
 
 Illustration.py 
