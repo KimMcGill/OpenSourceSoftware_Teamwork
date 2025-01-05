@@ -23,7 +23,11 @@
 
 Linux_commit_work.py
 
+通过GitHub API分页获取Linux仓库的Linus  Torvalds所有提交记录并保存到文本文件中
+
 LinuxCommitsInfo.txt
+
+每个提交信息包括以下部分：SHA值、作者、日期、详细改动列表、关于提交消息
 
 #### 2.数据清洗
 
