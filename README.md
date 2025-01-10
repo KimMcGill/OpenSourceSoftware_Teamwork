@@ -32,9 +32,9 @@ LinuxCommitsInfo.txt
 #### 2.数据清洗
 
 Category_counts.csv
-
+保存有commit类别和对应出现次数
 Category_counts.py
-
+根据commit中的message对每次的commit进行分类，将类别和对应的commit数保存到Category_counts.csv中
 #### 3.数据分析与可视化
 
 ##### 3.1殷智所作工作
