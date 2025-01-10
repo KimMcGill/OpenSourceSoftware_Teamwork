@@ -1,7 +1,8 @@
 # 导入所需库
 from collections import defaultdict
 import re
-
+import pandas as pd
+import plotly.express as px
 # 定义文件路径
 input_file = 'LinuxCommitsInfo.txt'
 output_file = 'AuthorCommitDetails.txt'
@@ -46,8 +47,7 @@ with open(output_file, 'w', encoding='utf-8') as file:
 print(f"统计结果已保存到 {output_file}")
 
 # 添加统计前五十贡献者及其贡献最多的内容
-import pandas as pd
-import plotly.express as px
+
 
 # 转换数据为绘图所需的格式
 data = []
